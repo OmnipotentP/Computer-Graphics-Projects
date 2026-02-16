@@ -37,7 +37,7 @@ Implementation of a 3D Maze Game without using any game engine, utilizing **Open
     * Added sound effects upon collection.
 
 ### 📸 OpenGL Demo
-![OpenGL Maze Gameplay](screenshots/opengl_maze_demo.mp4)
+![OpenGL Maze Gameplay] https://github.com/user-attachments/assets/6be23e34-dff3-4a3f-8aa9-314b466c9f3f
 
 ---
 
