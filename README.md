@@ -4,6 +4,7 @@ A collection of projects exploring the fundamentals of 3D Graphics, Rendering Pi
 Developed for the *Computer Graphics & Interaction Systems* course at the **University of Ioannina**.
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C)
+![C#](https://img.shields.io/badge/Language-C%23-512BD4)
 ![OpenGL](https://img.shields.io/badge/API-OpenGL%203.3-red)
 ![Unity](https://img.shields.io/badge/Engine-Unity%203D-black)
 ![GLSL](https://img.shields.io/badge/Shaders-GLSL-orange)
