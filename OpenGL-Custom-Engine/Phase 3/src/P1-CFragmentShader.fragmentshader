@@ -1,0 +1,16 @@
+#version 330 core
+in vec2 UV;
+in vec4 fragmentColor;
+out vec4 color;
+
+uniform sampler2D myTexture;
+uniform int color_choice;
+
+void main() {
+    if (color_choice == 0){
+        color = fragmentColor;
+    } else {
+        color = texture(myTexture, UV);
+    }
+    
+}
