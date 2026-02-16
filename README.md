@@ -54,7 +54,7 @@ Re-imagining the maze concept using the **Unity Engine**, focusing on game feel,
 * **Scripting:** Custom C# scripts for player movement, collision logic, and game state management.
 
 ### 📸 Unity Demo
-![Unity Gameplay](screenshots/unity_gameplay.mp4)
+https://github.com/user-attachments/assets/75823c8c-e6c8-4b13-9e89-60086fed9afc
 
 ---
 
